@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "es5", // Output JavaScript compatible with most browsers
+    "module": "commonjs" // Module format (commonjs is a popular choice)
+  },
+  "include": ["*.ts"] // Include all TypeScript files in the current directory
+}
